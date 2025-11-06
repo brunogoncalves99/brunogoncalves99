@@ -2,7 +2,7 @@
 ## Quem é o Bruno? | Who is Bruno?
 
 ### 👨🏽‍🎓 **Formado em Sistema de Informação pela [Anhembi](https://portal.anhembi.br) em 2025**
-### 👨🏽‍🏫 **Técnico em Logística [People](https://bitaraxa.com.br) em 2018**
+### 👨🏽‍🏫 **Técnico em Logística [Bit](https://bitaraxa.com.br) em 2018**
 
 
 <div>
@@ -16,6 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
 <br>
