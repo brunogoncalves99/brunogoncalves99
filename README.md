@@ -22,14 +22,24 @@
  
 <br>
 
-## **Mais sobre mim 👇🏽 More about me**
-<div> <a href="https://www.linkedin.com/in/brunogoncalveslemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+# 💻 Tᴇᴄʜ Sᴛᴀᴄᴋ:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ! [Jquery]https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ! ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🌐 Sᴏᴄɪᴀʟꜱ | Commercial Contact:
+<div align="center"> 
+<a href="https://instagram.com/bruno.goncalves99" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
 
 
-## Skills
-- 👨‍💻 .Net, C#
-- ⚙️ Javascript, Jquery, CSS
-- 💽 SQL SERVER
+<a href="mailto:bruno.goncalves1999@hotmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/brunogoncalveslemos/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
 
 ## **Cursos em andamento 📚 Courses in progress**
 
@@ -42,6 +52,3 @@
 | Dominando o ASP.NET MVC Core | [Desenvolvedor.io](https://desenvolvedor.io)|
 | Iniciando com ASP.NET Core | [Desenvolvedor.io](https://desenvolvedor.io)|
 | Fundamentos de coleções e LINQ com .Net | [Desenvolvedor.io](https://desenvolvedor.io)|
-
-# 📨 Contato comercial | Commercial Contact:
-- Email: bruno.goncalves1999@hotmail.com
