@@ -35,7 +35,7 @@
 </a>
 
 
-<a href="outlook:bruno.goncalves1999@hotmail.com">
+<a href="mailto:bruno.goncalves1999@hotmail.com">
 <img align="center"  height="80" width="150" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">
 </a>
 
